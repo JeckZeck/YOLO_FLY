@@ -20,7 +20,7 @@ Official model configuration for **FLY-YOLO**, a parameter-efficient small-objec
 
 ## ⚙️ Model Configuration
 
-[`fly-yolo.yaml`](fly-yolo.yaml) contains the complete architecture specification for FLY-YOLO (nano scale), including:
+[`/yolofly/fly-yolo.yaml`](/yolofly/fly-yolo.yaml) contains the complete architecture specification for FLY-YOLO (nano scale), including:
 
 - **Backbone**: C3k2-TCF blocks with DARF (Direction-Aware Receptive Field)
 - **Neck**: CIF (Cross-scale Interactive Fusion) modules with bidirectional top-down / bottom-up pathway
