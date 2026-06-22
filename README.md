@@ -14,7 +14,7 @@ Official model configuration for **FLY-YOLO**, a parameter-efficient small-objec
 ## 📁 Repository Structure
 
 ```
-├── fly-yolo.yaml          # Model configuration (YOLO format)
+├── /yolofly/fly-yolo.yaml          # Model configuration (YOLO format)
 └── README.md              # This file
 ```
 
